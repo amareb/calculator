@@ -12,3 +12,4 @@ This project is a straightforward calculator application built using React. It p
 - **CSS**: Custom styling for the calculator layout and design.
 
 # Calculator
+# calculator
